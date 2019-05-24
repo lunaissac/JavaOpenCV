@@ -1,0 +1,2 @@
+# JavaOpenCV
+reconocimiento facial
